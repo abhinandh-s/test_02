@@ -12,7 +12,7 @@
       <title>Episode 1: My First Show</title>
       <description>Description of the first episode.</description>
       <pubDate>Sun, 21 Jun 2026 10:00:00 GMT</pubDate>
-      <enclosure url="https://yourusername.github.io/your-repo-name/assets/audio/episode1.mp3" 
+      <enclosure url="https://github.com/abhinandh-s/test_02/blob/1061c27785248d09ce97b86b723de565c39800de/assets/audio/notification.mp3" 
                  length="5000000" 
                  type="audio/mpeg" />
       <guid>episode1</guid>
