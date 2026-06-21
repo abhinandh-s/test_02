@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Podcast Title</title>
+    <link>https://yourusername.github.io/your-repo-name/</link>
+    <description>A brief description of your podcast.</description>
+    <language>en-us</language>
+    <itunes:author>Your Name</itunes:author>
+    
+    <!-- This is your first episode -->
+    <item>
+      <title>Episode 1: My First Show</title>
+      <description>Description of the first episode.</description>
+      <pubDate>Sun, 21 Jun 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/your-repo-name/assets/audio/episode1.mp3" 
+                 length="5000000" 
+                 type="audio/mpeg" />
+      <guid>episode1</guid>
+      <itunes:duration>00:05:00</itunes:duration>
+    </item>
+    
+  </channel>
+</rss>
